@@ -1,6 +1,6 @@
 # a-beautiful-repo
 
-![Python](https://img.shields.io/badge/Made%20With-Python-blue) ![License: MIT](https://img.shields.io/badge/License-MIT-green) [![Proj1 Tests](https://github.com/SE-Spring2025-G2/a-beautiful-repo/actions/workflows/main.yml/badge.svg)](https://github.com/SE-Spring2025-G2/a-beautiful-repo/actions/workflows/main.yml)
+![Python](https://img.shields.io/badge/Made%20With-Python-blue) ![License: MIT](https://img.shields.io/badge/License-MIT-green) [![Proj1 Tests](https://github.com/SE-Spring2025-G2/a-beautiful-repo/actions/workflows/main.yml/badge.svg)](https://github.com/SE-Spring2025-G2/a-beautiful-repo/actions/workflows/main.yml) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14721778.svg)](https://doi.org/10.5281/zenodo.14721778)
 
 Welcome to "A Beautiful Repo," created as part of the **Spring 2025 Software Engineering** course.
 
