@@ -40,7 +40,7 @@ jobs:
 
       # Step 7: Run Bandit
       - name: Run Bandit
-        run: bandit -r .
+        run: bandit -c .bandit.yml -r .
 
       # Step 8: Run tests with pytest and generate coverage report
       - name: Run tests with pytest
