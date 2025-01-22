@@ -1,5 +1,4 @@
-def Fibonacci(n):
-
+def Fibonacci(n: int) -> int:
     # Check if input is 0 then it will
     # print incorrect input
     if n < 0:
