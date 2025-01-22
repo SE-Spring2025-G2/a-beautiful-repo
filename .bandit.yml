@@ -2,6 +2,7 @@ targets:
   - my_python_project
 exclude:
   - venv
+  - tests
 tests:
   - B101
   - B102
