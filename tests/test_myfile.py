@@ -1,5 +1,5 @@
 import pytest
-from myfile import Fibonacci
+from src.myfile import Fibonacci
 
 
 def test_passing():

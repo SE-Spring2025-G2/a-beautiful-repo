@@ -1,0 +1,7 @@
+targets:
+  - my_python_project
+exclude:
+  - venv
+tests:
+  - B101
+  - B102

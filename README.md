@@ -1,6 +1,11 @@
 # a-beautiful-repo
 
-![Python](https://img.shields.io/badge/Made%20With-Python-blue) ![License: MIT](https://img.shields.io/badge/License-MIT-green) [![Proj1 Tests](https://github.com/SE-Spring2025-G2/a-beautiful-repo/actions/workflows/main.yml/badge.svg)](https://github.com/SE-Spring2025-G2/a-beautiful-repo/actions/workflows/main.yml) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14721778.svg)](https://doi.org/10.5281/zenodo.14721778) ![Black](https://img.shields.io/badge/code%20style-black-000000.svg)
+![Python](https://img.shields.io/badge/Made%20With-Python-blue) ![License: MIT](https://img.shields.io/badge/License-MIT-green) [![Proj1 Tests](https://github.com/SE-Spring2025-G2/a-beautiful-repo/actions/workflows/main.yml/badge.svg)](https://github.com/SE-Spring2025-G2/a-beautiful-repo/actions/workflows/main.yml) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14721778.svg)](https://doi.org/10.5281/zenodo.14721778) 
+![Flake8](https://img.shields.io/badge/style-flake8-blue)
+![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)
+![Checked with mypy](https://img.shields.io/badge/mypy-checked-blue)
+![Codecov](https://img.shields.io/codecov/c/github/Raphaeal19/SE-Spring2025-G2/a-beautiful-repo)
+![Security: Bandit](https://img.shields.io/badge/security-bandit-yellow)
 
 Welcome to "A Beautiful Repo," created as part of the **Spring 2025 Software Engineering** course.
 
@@ -27,7 +32,11 @@ This repository contains the implementation and testing of a recursive Fibonacci
 - **Recursive Fibonacci Function**: Computes the nth Fibonacci number.
 - **Unit Tests**: Ensures correctness and edge case handling.
 - **CI/CD Integration**: GitHub Actions workflow for automated testing.
-
+- **Style Checker**: This project uses Flake8 to ensure consistent style checking.
+- **Code Formatter**: Black is being used to check for standard code formatting.
+- **Syntax Checker**: MyPy is being used for the syntax checking.
+- **Code coverage**: All code coverage checking is done by Codecov.
+- **Security Checking**: All security checks done by Bandit.
 ---
 
 ## Documentation
