@@ -4,7 +4,7 @@
 ![Flake8](https://img.shields.io/badge/style-flake8-blue)
 ![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)
 ![Checked with mypy](https://img.shields.io/badge/mypy-checked-blue)
-![Codecov](https://img.shields.io/codecov/c/github/Raphaeal19/SE-Spring2025-G2/a-beautiful-repo)
+![Codecov](https://img.shields.io/codecov/c/github/SE-Spring2025-G2/a-beautiful-repo)
 ![Security: Bandit](https://img.shields.io/badge/security-bandit-yellow)
 
 Welcome to "A Beautiful Repo," created as part of the **Spring 2025 Software Engineering** course.
