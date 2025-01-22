@@ -6,4 +6,4 @@ def test_passing() -> None:
 
 
 def test_failing() -> None:
-    assert Fibonacci(9) == 35
+    assert Fibonacci(10) == 55
