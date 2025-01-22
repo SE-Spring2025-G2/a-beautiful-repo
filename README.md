@@ -30,6 +30,40 @@ This repository contains the implementation and testing of a recursive Fibonacci
 
 ---
 
+## Documentation
+
+### myfile.py
+
+**Purpose:** Implements a recursive Fibonacci sequence generator.
+
+#### Functions:
+
+1. **`Fibonacci(n)`**:
+   - **Description**: Computes the nth Fibonacci number using recursion.
+   - **Parameters**:
+     - `n` (int): The position of the Fibonacci sequence to compute. Must be non-negative.
+   - **Returns**:
+     - Fibonacci number at position `n`.
+   - **Exceptions**:
+     - Raises `ValueError` for invalid input (e.g., `n < 0`).
+   - **Example Usage**:
+     ```python
+     Fibonacci(10)  # Output: 55
+     ```
+
+### test_myfile.py
+
+**Purpose:** Contains unit tests for the `Fibonacci` function.
+
+#### Tests:
+
+1. **Test Cases:**
+   - Valid inputs (e.g., `Fibonacci(0)`, `Fibonacci(1)`, `Fibonacci(10)`).
+   - Edge cases (e.g., `Fibonacci(-1)` raises `ValueError`).
+   - Performance for larger values.
+
+---
+
 ## Contributing
 
 We welcome contributions to this repository. Join the [**Discord Chat Channel**](https://discord.com/channels/1322756098582904842/1327005283335278662) for discussions, feedback, and collaboration.
