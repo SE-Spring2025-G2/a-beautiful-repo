@@ -16,4 +16,4 @@ def test_negative_input() -> None:
 
 
 def test_failing() -> None:
-    assert Fibonacci(10) == 55
+    assert Fibonacci(10) == 54
