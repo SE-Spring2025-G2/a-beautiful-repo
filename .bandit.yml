@@ -1,8 +1,5 @@
 targets:
-  - my_python_project
+  - src
 exclude:
   - venv
   - tests
-tests:
-  - B101
-  - B102
